@@ -1,0 +1,1 @@
+telegrafhost: telegraf runs here ignore the config check

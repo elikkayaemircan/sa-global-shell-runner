@@ -1,0 +1,2 @@
+telegrafhost,EXCEPTION,telegraf runs here ignore the config check
+otherhost,OK,metric gonderiliyor
